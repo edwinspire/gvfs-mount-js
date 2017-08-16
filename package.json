@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-gvfs-wrapper",
+  "version": "1.0.0",
+  "description": "GVFS Wrapper to NodeJS",
+    "main": "./lib/gvfs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinspire/nodejs-gvfs-wrapper.git"
+  },
+  "keywords": [
+    "GVFS",
+    "Linux",
+    "Shared",
+    "SMB",
+    "Samba"
+  ],
+  "author": "Edwin De La Cruz (edwinspire)",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/edwinspire/nodejs-gvfs-wrapper/issues"
+  },
+  "homepage": "https://github.com/edwinspire/nodejs-gvfs-wrapper#readme"
+}
