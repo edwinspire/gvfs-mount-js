@@ -1,8 +1,8 @@
 {
   "name": "nodejs-gvfs-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "GVFS Wrapper to NodeJS",
-    "main": "./lib/gvfs",
+  "main": "./lib/gvfs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
