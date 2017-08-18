@@ -1,14 +1,14 @@
 {
-  "name": "nodejs-gvfs-wrapper",
+  "name": "gvfs-mount-js",
   "version": "1.0.4",
-  "description": "GVFS Wrapper to NodeJS",
+  "description": "gvfs-mount Wrapper to NodeJS",
   "main": "./lib/gvfs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edwinspire/nodejs-gvfs-wrapper.git"
+    "url": "git+https://github.com/edwinspire/gvfs-mount-js.git"
   },
   "keywords": [
     "GVFS",
@@ -20,7 +20,7 @@
   "author": "Edwin De La Cruz (edwinspire)",
   "license": "LGPL-3.0",
   "bugs": {
-    "url": "https://github.com/edwinspire/nodejs-gvfs-wrapper/issues"
+    "url": "https://github.com/edwinspire/gvfs-mount-js/issues"
   },
-  "homepage": "https://github.com/edwinspire/nodejs-gvfs-wrapper#readme"
+  "homepage": "https://github.com/edwinspire/gvfs-mount-js#readme"
 }

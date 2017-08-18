@@ -11,7 +11,7 @@ Requires having **gvfs-bin** installed on your linux distribution.
 Install
 -------------
 
-    npm i nodejs-gvfs-wrapper
+    npm i gvfs-mount-js
 
 > **Note:**
 
